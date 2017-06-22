@@ -7,3 +7,12 @@ D:\OneDrive\ZBC\Programering\EksamensProjekt\EksamensProjekt\obj\Debug\EksamensP
 D:\OneDrive\ZBC\Programering\EksamensProjekt\EksamensProjekt\obj\Debug\EksamensProjekt.csproj.GenerateResource.Cache
 D:\OneDrive\ZBC\Programering\EksamensProjekt\EksamensProjekt\obj\Debug\EksamensProjekt.exe
 D:\OneDrive\ZBC\Programering\EksamensProjekt\EksamensProjekt\obj\Debug\EksamensProjekt.pdb
+D:\OneDrive\ZBC\Programering\EksamensProjekt\SourceTree\EksamensProjekt\bin\Debug\EksamensProjekt.exe.config
+D:\OneDrive\ZBC\Programering\EksamensProjekt\SourceTree\EksamensProjekt\bin\Debug\EksamensProjekt.exe
+D:\OneDrive\ZBC\Programering\EksamensProjekt\SourceTree\EksamensProjekt\bin\Debug\EksamensProjekt.pdb
+D:\OneDrive\ZBC\Programering\EksamensProjekt\SourceTree\EksamensProjekt\obj\Debug\EksamensProjekt.csprojResolveAssemblyReference.cache
+D:\OneDrive\ZBC\Programering\EksamensProjekt\SourceTree\EksamensProjekt\obj\Debug\EksamensProjekt.Form1.resources
+D:\OneDrive\ZBC\Programering\EksamensProjekt\SourceTree\EksamensProjekt\obj\Debug\EksamensProjekt.Properties.Resources.resources
+D:\OneDrive\ZBC\Programering\EksamensProjekt\SourceTree\EksamensProjekt\obj\Debug\EksamensProjekt.csproj.GenerateResource.Cache
+D:\OneDrive\ZBC\Programering\EksamensProjekt\SourceTree\EksamensProjekt\obj\Debug\EksamensProjekt.exe
+D:\OneDrive\ZBC\Programering\EksamensProjekt\SourceTree\EksamensProjekt\obj\Debug\EksamensProjekt.pdb
